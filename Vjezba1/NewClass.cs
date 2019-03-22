@@ -8,5 +8,14 @@ namespace Vjezba1
 {
     class NewClass
     {
+
+        void Empty()
+        {
+
+        }
+
     }
+
+
+
 }
