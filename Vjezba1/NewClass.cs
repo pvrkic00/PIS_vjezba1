@@ -8,5 +8,6 @@ namespace Vjezba1
 {
     class NewClass
     {
+        int i;
     }
 }
